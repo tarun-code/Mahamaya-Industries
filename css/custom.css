@@ -1,0 +1,120 @@
+.field_error {
+    color: red;
+}
+
+.accordion .accordion__hide {
+    background: #f4f4f4;
+    height: 65px;
+    line-height: 65px;
+    display: flex;
+    align-items: center;
+    padding: 0 30px;
+    position: relative;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    font-family: "Poppins";
+    cursor: pointer;
+}
+
+#social_share_box {
+    margin-top: 111px;
+    width: 150px;
+}
+
+
+#social_share_box img {
+    width: 20%;
+    margin-left: 10px;
+}
+
+
+.buy_now {
+    background: #337ab7 none repeat scroll 0 0;
+}
+
+#multiple_images {
+    margin-top: 10px;
+}
+
+#multiple_images img {
+    width: 15%;
+}
+
+/* gif loader start here  */
+
+#preloader {
+    background: #fff url(images/1.gif) no-repeat center;
+    background-size: 15%;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 999999;
+
+
+}
+
+
+
+/* preloader end here  */
+
+/* about us page */
+
+
+
+
+/* about us page  */
+
+
+
+/* google map  */
+
+.map-responsive {
+
+    overflow: hidden;
+
+    padding-bottom: 56.25%;
+
+    position: relative;
+
+    height: 0;
+
+}
+
+.map-responsive iframe {
+
+    left: 0;
+
+    top: 0;
+
+    height: 100%;
+
+    width: 100%;
+
+    position: absolute;
+
+}
+
+
+/* google map end  */
+
+.sucess_msg {
+    color: green;
+}
+
+.danger_msg {
+    color: red;
+}
+
+/* p+img,
+img:last-child {
+    margin-bottom: 0;
+}
+
+img, */
+/* .img {
+    max-width: 50%;
+
+} */
